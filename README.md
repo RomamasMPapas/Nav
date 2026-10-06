@@ -1,7 +1,5 @@
 # Nav
 
-## Royette Andrei C. Telar
-
 ## Preview
 
 <div align="center">
