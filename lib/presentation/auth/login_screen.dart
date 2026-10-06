@@ -12,10 +12,13 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
+  static const String _demoEmail = 'alex.rivera@gmail.com';
+  static const String _demoPassword = 'password123';
+
   final TextEditingController _emailController =
-      TextEditingController(text: "");
+      TextEditingController(text: _demoEmail);
   final TextEditingController _passwordController =
-      TextEditingController(text: '');
+      TextEditingController(text: _demoPassword);
   bool _obscurePassword = true;
 
   void _handleLogin() {
