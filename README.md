@@ -2,10 +2,6 @@
 
 ## Preview
 
-<div align="center">
-  <img src="demo.gif" width="300" alt="Preview" /><br><br>
-  <a href="demo.mp4">Open demo.mp4</a>
-</div>
 
 ## Features
 
